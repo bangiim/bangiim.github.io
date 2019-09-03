@@ -1,2 +1,2 @@
-# bangiim.github.io-
+# bangiim.github.io
 Profile page with HTML + CSS
